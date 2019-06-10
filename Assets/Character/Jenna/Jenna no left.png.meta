@@ -1,0 +1,2106 @@
+fileFormatVersion: 2
+guid: f90e1cc6660570d4aa242364ce890fd8
+timeCreated: 1486867890
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Jenna no left_0
+    21300002: Jenna no left_1
+    21300004: Jenna no left_2
+    21300006: Jenna no left_4
+    21300008: Jenna no left_5
+    21300010: Jenna no left_6
+    21300012: Jenna no left_7
+    21300014: Jenna no left_8
+    21300016: Jenna no left_10
+    21300018: Jenna no left_11
+    21300020: Jenna no left_12
+    21300022: Jenna no left_13
+    21300024: Jenna no left_14
+    21300026: Jenna no left_9
+    21300028: Jenna no left_16
+    21300030: Jenna no left_17
+    21300032: Jenna no left_18
+    21300034: Jenna no left_19
+    21300036: Jenna no left_20
+    21300038: Jenna no left_21
+    21300040: Jenna no left_22
+    21300042: Jenna no left_23
+    21300044: Jenna no left_24
+    21300046: Jenna no left_25
+    21300048: Jenna no left_29
+    21300050: Jenna no left_30
+    21300052: Jenna no left_31
+    21300054: Jenna no left_32
+    21300056: Jenna no left_33
+    21300058: Jenna no left_35
+    21300060: Jenna no left_36
+    21300062: Jenna no left_37
+    21300064: Jenna no left_38
+    21300066: Jenna no left_39
+    21300068: Jenna no left_40
+    21300070: Jenna no left_41
+    21300072: Jenna no left_42
+    21300074: Jenna no left_43
+    21300076: Jenna no left_44
+    21300078: Jenna no left_45
+    21300080: Jenna no left_46
+    21300082: Jenna no left_47
+    21300084: Jenna no left_48
+    21300086: Jenna no left_49
+    21300088: Jenna no left_50
+    21300090: Jenna no left_51
+    21300092: Jenna no left_53
+    21300094: Jenna no left_55
+    21300096: Jenna no left_56
+    21300098: Jenna no left_57
+    21300100: Jenna no left_58
+    21300102: Jenna no left_34
+    21300104: Jenna no left_60
+    21300106: Jenna no left_61
+    21300108: Jenna no left_62
+    21300110: Jenna no left_63
+    21300112: Jenna no left_64
+    21300114: Jenna no left_65
+    21300116: Jenna no left_66
+    21300118: Jenna no left_67
+    21300120: Jenna no left_68
+    21300122: Jenna no left_69
+    21300124: Jenna no left_70
+    21300126: Jenna no left_71
+    21300128: Jenna no left_72
+    21300130: Jenna no left_73
+    21300132: Jenna no left_74
+    21300134: Jenna no left_75
+    21300136: Jenna no left_76
+    21300138: Jenna no left_77
+    21300140: Jenna no left_78
+    21300142: Jenna no left_80
+    21300144: Jenna no left_81
+    21300146: Jenna no left_82
+    21300148: Jenna no left_83
+    21300150: Jenna no left_84
+    21300152: Jenna no left_85
+    21300154: Jenna no left_86
+    21300156: Jenna no left_87
+    21300158: Jenna no left_88
+    21300160: Jenna no left_89
+    21300162: Jenna no left_90
+    21300164: Jenna no left_91
+    21300166: Jenna no left_92
+    21300168: Jenna no left_93
+    21300170: Jenna no left_94
+    21300172: Jenna no left_95
+    21300174: Jenna no left_96
+    21300176: Jenna no left_97
+    21300178: Jenna no left_98
+    21300180: Jenna no left_99
+    21300182: Jenna no left_100
+    21300184: Jenna no left_101
+    21300186: Jenna no left_102
+    21300188: Jenna no left_103
+    21300190: Jenna no left_104
+    21300192: Jenna no left_105
+    21300194: Jenna no left_106
+    21300196: Jenna no left_107
+    21300198: Jenna no left_108
+    21300200: Jenna no left_109
+    21300202: Jenna no left_110
+    21300204: Jenna no left_111
+    21300206: Jenna no left_112
+    21300208: Jenna no left_113
+    21300210: Jenna no left_114
+    21300212: Jenna no left_115
+    21300214: Jenna no left_116
+    21300216: Jenna no left_117
+    21300218: Jenna no left_118
+    21300220: Jenna no left_119
+    21300222: Jenna no left_120
+    21300224: Jenna no left_121
+    21300226: Jenna no left_122
+    21300228: Jenna no left_123
+    21300230: Jenna no left_124
+    21300232: Jenna no left_125
+    21300234: Jenna no left_126
+    21300236: Jenna no left_127
+    21300238: Jenna no left_128
+    21300240: Jenna no left_129
+    21300242: Jenna no left_130
+    21300244: Jenna no left_131
+    21300246: Jenna no left_132
+    21300248: Jenna no left_133
+    21300250: Jenna no left_134
+    21300252: Jenna no left_135
+    21300254: Jenna no left_136
+    21300256: Jenna no left_137
+    21300258: Jenna no left_138
+    21300260: Jenna no left_139
+    21300262: Jenna no left_59
+    21300264: Jenna no left_141
+    21300266: Jenna no left_142
+    21300268: Jenna no left_143
+    21300270: Jenna no left_144
+    21300272: Jenna no left_145
+    21300274: Jenna no left_146
+    21300276: Jenna no left_147
+    21300278: Jenna no left_148
+    21300280: Jenna no left_149
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 80
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: tvOS
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Tizen
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Samsung TV
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Jenna no left_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 160
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 160
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_2
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 160
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_4
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 160
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_5
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 160
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_6
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 160
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_7
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 160
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_8
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 160
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_10
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 160
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_11
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 160
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_12
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 160
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_13
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 160
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_14
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 160
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_9
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 160
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_16
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_17
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 160
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_18
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 160
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_19
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 160
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_20
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 160
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_21
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 160
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_22
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 160
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_23
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 160
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_24
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 160
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_25
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 131
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_29
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 131
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_30
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 131
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_31
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 131
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_32
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 131
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_33
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 131
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_35
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 129
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_36
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 129
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_37
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 129
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_38
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 129
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_39
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 129
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_40
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 129
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_41
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 129
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_42
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 129
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_43
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 129
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_44
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 129
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_45
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 129
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_46
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 129
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_47
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 129
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_48
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 129
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_49
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 129
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_50
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 102
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_51
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 102
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_53
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 101
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_55
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 101
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_56
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 102
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_57
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 102
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_58
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 102
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_34
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 131
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_60
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 98
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_61
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 98
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_62
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 98
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_63
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 98
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_64
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 98
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_65
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 98
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_66
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 98
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_67
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 98
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_68
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 98
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_69
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 98
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_70
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 98
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_71
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 98
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_72
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 98
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_73
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 98
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_74
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 98
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_75
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 73
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_76
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 73
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_77
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 73
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_78
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 73
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_80
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 73
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_81
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 73
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_82
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 73
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_83
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 73
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_84
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 73
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_85
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 67
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_86
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 67
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_87
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 67
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_88
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 67
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_89
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 67
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_90
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 67
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_91
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 67
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_92
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 67
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_93
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 67
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_94
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 67
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_95
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 67
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_96
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 67
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_97
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 67
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_98
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 67
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_99
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 67
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_100
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 44
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_101
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 44
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_102
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 44
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_103
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 44
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_104
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 44
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_105
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 44
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_106
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 44
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_107
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 44
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_108
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 44
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_109
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 36
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_110
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 36
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_111
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 36
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_112
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 36
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_113
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 36
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_114
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 36
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_115
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 36
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_116
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 36
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_117
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 36
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_118
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 36
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_119
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 36
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_120
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 36
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_121
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 36
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_122
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 36
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_123
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 36
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_124
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 36
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_125
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_126
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 5
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_127
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 5
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_128
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 5
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_129
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 11
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_130
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 5
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_131
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 5
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_132
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 5
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_133
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 5
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_134
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 5
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_135
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 5
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_136
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 5
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_137
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 5
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_138
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 5
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_139
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 5
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_59
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 102
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_141
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 5
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_142
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 5
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_143
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 5
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_144
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 5
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_145
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 5
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_146
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 5
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_147
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 5
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_148
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 5
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jenna no left_149
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 5
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

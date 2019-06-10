@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{C16D5F3C-D088-A48A-C428-9120BAEBC22A}") = "Youtube RPG Tutorial", "Assembly-CSharp.csproj", "{7BE6DBAF-547C-3BA1-8749-CE18920454B8}"
+EndProject
+Project("{C16D5F3C-D088-A48A-C428-9120BAEBC22A}") = "Youtube RPG Tutorial", "Assembly-CSharp-Editor.csproj", "{DF36BE4F-BE66-1DF2-3DB6-DB85C915044F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BE6DBAF-547C-3BA1-8749-CE18920454B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BE6DBAF-547C-3BA1-8749-CE18920454B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BE6DBAF-547C-3BA1-8749-CE18920454B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BE6DBAF-547C-3BA1-8749-CE18920454B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF36BE4F-BE66-1DF2-3DB6-DB85C915044F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF36BE4F-BE66-1DF2-3DB6-DB85C915044F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF36BE4F-BE66-1DF2-3DB6-DB85C915044F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF36BE4F-BE66-1DF2-3DB6-DB85C915044F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
